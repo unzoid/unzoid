@@ -23,7 +23,7 @@ I'm a junior developer.
 
 
 
-###
+##
 
    <p align="left">
          <a href="https://www.youtube.com/channel/UChKN0BzAHOgHGzW9PSEwVDw">
@@ -37,4 +37,6 @@ I'm a junior developer.
    
    </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/412292491036065802)](https://discord.com/users/412292491036065802)
+##
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/412292491036065802?borderRadius=5px&animated=true&bg=transparent)](https://discord.com/users/412292491036065802)
