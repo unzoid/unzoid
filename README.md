@@ -39,4 +39,6 @@ I'm a junior developer.
 
 ##
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/412292491036065802?borderRadius=5px&animated=true&bg=transparent)](https://discord.com/users/412292491036065802)
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/412292491036065802?borderRadius=5px&animated=true)](https://discord.com/users/412292491036065802)
