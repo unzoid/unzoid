@@ -37,3 +37,4 @@ I'm a junior developer.
    
    </p>
 
+https://discord.com/users/412292491036065802
